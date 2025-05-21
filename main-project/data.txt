@@ -1,0 +1,4 @@
+BelarusBank 2.45 2.55 ul.LENINA, 12 
+AlphaBank 2.40 2.50 pr.nezavisimosti, 34 
+BelarusBank 2.42 2.52 ul.otyabrskaya, 5 
+PriorBank 2.38 2.48 ul.sovetsskaya, 10 
